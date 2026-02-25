@@ -161,6 +161,13 @@ curl -X POST http://127.0.0.1:8000/ml-pipeline/train
 ```
 
 ---
+## 📊 Graph Visulalizations<div align="center">
+  <img src="https://github.com/user-attachments/assets/9142337f-a8c5-44e2-ac89-46266fb2e1ee" width="45%" />
+  <img src="https://github.com/user-attachments/assets/de7399f0-4a03-405c-b255-fea2b2d67b34" width="45%" />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/0696eead-e047-40d1-a511-b8bd088ffeba" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bdd5c285-8268-47de-88fd-6e16051df094" width="45%" />
+</div>
 
 ## 📈 Model Performance & Evaluation
 
